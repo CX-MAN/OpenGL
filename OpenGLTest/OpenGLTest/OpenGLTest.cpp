@@ -3,7 +3,6 @@
 #include "stdafx.h"
 #include<stdlib.h>
 #include"glut.h"
-using namespace System;
 void init(void)
 {
 	glClearColor(1.0, 1.0, 1.0, 0.0);
