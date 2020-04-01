@@ -18,6 +18,7 @@ void display(void)
 	glDrawElements(GL_QUADS, 4, GL_UNSIGNED_BYTE, topIndices);
 	//glDisableClientState(GL_VERTEX_ARRAY);
 	//glFlush();
+
 }
 void init()
 {
